@@ -1,0 +1,22 @@
+.build/
+build/
+build-ios/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+.swiftpm/
+*.xcresult
+*.xcarchive
+__pycache__/
+*.pyc
+.env
+.env.*
+*.sqlite*
+*.store*
+
+# Personal course facts and generated copies of course materials stay local.
+Updates/
+App/Resources/berkeley-fall-2026.json
+App/Resources/course-library.json
+App/Resources/StudyFiles/

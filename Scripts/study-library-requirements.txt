@@ -1,0 +1,8 @@
+Markdown>=3.5
+nbformat>=5.9
+nbconvert>=7.16
+beautifulsoup4>=4.12
+Pillow>=10
+pypdf>=5
+latex2mathml>=3.77
+gdown>=5
